@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER Manuel Redle (coding@nuelredle.ch)
+MAINTAINER Manuel Redle "https://github.com/mredle"
 
 RUN apt-get update && apt-get install -y \
     vim \
